@@ -9,7 +9,7 @@ import com.wrongmove.demo.dtos.PropertyUpdateRequest;
 
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "http://34.147.222.0")
 @RestController
 public class PropertyController {
 
